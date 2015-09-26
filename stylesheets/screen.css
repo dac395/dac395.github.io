@@ -13,7 +13,7 @@
 }
 
 @font-face {
-  font-family: 'Open Sans';
+  font-family: 'Times New Roman';
   src: url('../fonts/opensans-italic-webfont.eot');
   src: url('../fonts/opensans-italic-webfont.eot?#iefix') format('embedded-opentype'),
        url('../fonts/opensans-italic-webfont.woff') format('woff'),
@@ -147,8 +147,8 @@ header {
 header span.ribbon-inner {
   position: relative;
   display: block;
-  background-color: #cd596b;
-  border: 4px solid #7c334f;
+  background-color: #D2C4EA;
+  border: 4px solid #D2C4EA;
   padding: 2px;
   z-index: 1;
 }
@@ -175,21 +175,21 @@ header span.right-tail {
 }
 
 header h1 {
-  background-color: #7c334f;
+  background-color: #D2C4EA;
   font-size: 2.5em;
   font-weight: 800;
   font-style: normal;
   text-transform: uppercase;
-  color: #ece4d8;
+  color: #0E0902;
   text-align: center;
   line-height:1;
   padding: 14px 20px 0;
 }
 
 header h2 {
-  background-color: #7c334f;
+  background-color: #D2C4EA;
   font: bold italic .85em/1.5 Georgia, Times, “Times New Roman”, serif;
-  color: #e69b95;
+  color: #0E0902;
   padding-bottom: 14px;
   margin-top: -3px;
   text-align: center;
@@ -364,9 +364,9 @@ footer span.octocat {
 /* content */
 
 body {
-  background: #ece4d8;
+  background: #9D8CAE;;
   font: normal normal 15px/1.5 Georgia, Palatino,” Palatino Linotype”, Times, “Times New Roman”, serif;
-  color: #544943;
+  color: #EDEEF2;
   -webkit-font-smoothing: antialiased;
 }
 
@@ -527,8 +527,8 @@ dd p:first-child {
 
 .header-level-1 {
   font-size: 1.85em;
-  border-bottom: .2em double #d3ccc1;
-  color: #7c334f;
+  border-bottom: .2em double #D2C4EA;
+  color: #0E0902;
   text-align: center;
   font-style: italic;
   margin: 1.1em 0 .38em;
